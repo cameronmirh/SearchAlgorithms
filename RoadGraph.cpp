@@ -5,8 +5,6 @@
  * Please do not modify this provided file. Your turned-in files should work
  * with an unmodified version of all provided code files.
  *
- * @author Chris Piech, Keith Schwarz
- * @version 2017/03/09 (updated version for Win17)
  */
 
 
