@@ -6,8 +6,6 @@
  * Please do not modify this provided file. Your turned-in files should work
  * with an unmodified version of all provided code files.
  *
- * @author Marty Stepp, Keith Schwarz
- * @version 2017/03/09 (updated for Win17)
  */
 
 #include "Color.h"
