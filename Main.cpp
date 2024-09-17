@@ -4,9 +4,7 @@
  *
  * Please do not modify this provided file. Your turned-in files should work
  * with an unmodified version of all provided code files.
- *
- * @author Marty Stepp, Keith Schwarz, et al
- * @version 2016/03/09 (updated version for Win17)
+
  */
 
 #include "gevents.h"
