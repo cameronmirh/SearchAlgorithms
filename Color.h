@@ -4,9 +4,6 @@
  *
  * Please do not modify this provided file. Your turned-in files should work
  * with an unmodified version of all provided code files.
- *
- * @author Keith Schwarz, Marty Stepp
- * @version 2017/03/09 (initial version for 14au)
  */
 
 #ifndef _color_h
